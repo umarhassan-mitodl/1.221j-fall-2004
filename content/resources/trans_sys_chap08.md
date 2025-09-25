@@ -5,6 +5,8 @@ description: This resource illustrates the elevator example and key points which
 file: /courses/1-221j-transportation-systems-fall-2004/84ba194f350e0d9d07b621f08d9be277_trans_sys_chap08.pdf
 file_size: 169399
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

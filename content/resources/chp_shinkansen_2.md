@@ -5,6 +5,8 @@ description: An East Japan Railway Company Shinkansen high speed train photograp
 file: /courses/1-221j-transportation-systems-fall-2004/86a058c4ca6418321796ce3168031bd8_chp_shinkansen_2.jpg
 file_size: 44694
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

@@ -5,8 +5,6 @@ description: The main objective of this assignment is to help you prepare for Le
 file: /courses/1-221j-transportation-systems-fall-2004/52181ac54825a870080b49594638863b_04assn2a.pdf
 file_size: 84400
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

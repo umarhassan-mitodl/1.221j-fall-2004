@@ -5,8 +5,6 @@ description: This resource talks about two kinds of transportation customers, an
 file: /courses/1-221j-transportation-systems-fall-2004/595308fd14043f8b4a8174f808c5f959_trans_sys_chap04.pdf
 file_size: 101234
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

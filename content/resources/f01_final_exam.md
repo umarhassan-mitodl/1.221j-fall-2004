@@ -4,8 +4,6 @@ description: This resource inludes two questions on Transportation Systems.
 file: /courses/1-221j-transportation-systems-fall-2004/3f403684977d465ebc58299083d70665_f01_final_exam.pdf
 file_size: 101140
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
